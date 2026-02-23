@@ -8,6 +8,8 @@ project:
   # authors: []
   github: https://github.com/vim-latex/vim-latex
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: intro.md
 site:
   template: book-theme
   # options:
