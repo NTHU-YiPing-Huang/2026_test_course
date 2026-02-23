@@ -1,0 +1,7 @@
+1. copy the "temp_create_jupyter_book.sh" to the directory that you want to create:
+	* Scripts to build html and pdf
+	* A script to upload the html to github
+	* A folder contain the md and related files for jupyter book.
+2. Rename the script as "creat_jupyterbook_coursename.sh
+3. Modify the related content with "<++>" by ctrl+j
+4. run the script
